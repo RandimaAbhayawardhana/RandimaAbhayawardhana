@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **tharusha_r@ieee.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tharusha-abhayawardhana-91054a151](https://www.linkedin.com/in/tharusha-abhayawardhana-91054a151)
+- 📄 Know about my experiences [https://www.linkedin.com/in/randimaabhayawardhana](https://www.linkedin.com/in/randimaabhayawardhana)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tharusha-abhayawardhana-91054a151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin-fernando" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/randimaabhayawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin-fernando" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008177825231&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharusha Randima" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tharusha_r_abhayawardhana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d2d_19" height="30" width="40" /></a>
 </p>
